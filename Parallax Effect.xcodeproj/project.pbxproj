@@ -13,6 +13,7 @@
 		744C683323767FD50010F297 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744C683123767FD50010F297 /* Main.storyboard */; };
 		744C683523767FD90010F297 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 744C683423767FD90010F297 /* Assets.xcassets */; };
 		744C683823767FD90010F297 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 744C683623767FD90010F297 /* LaunchScreen.storyboard */; };
+		744C68402376829F0010F297 /* ParallaxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744C683F2376829F0010F297 /* ParallaxView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		744C683423767FD90010F297 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		744C683723767FD90010F297 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		744C683923767FD90010F297 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		744C683F2376829F0010F297 /* ParallaxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				744C682D23767FD50010F297 /* SceneDelegate.swift */,
 				744C682F23767FD50010F297 /* ViewController.swift */,
 				744C683123767FD50010F297 /* Main.storyboard */,
+				744C683F2376829F0010F297 /* ParallaxView.swift */,
 				744C683423767FD90010F297 /* Assets.xcassets */,
 				744C683623767FD90010F297 /* LaunchScreen.storyboard */,
 				744C683923767FD90010F297 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				744C683023767FD50010F297 /* ViewController.swift in Sources */,
+				744C68402376829F0010F297 /* ParallaxView.swift in Sources */,
 				744C682C23767FD50010F297 /* AppDelegate.swift in Sources */,
 				744C682E23767FD50010F297 /* SceneDelegate.swift in Sources */,
 			);
